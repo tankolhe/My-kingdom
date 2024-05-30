@@ -2,3 +2,6 @@
 This is my first repo, created on 29.5.24
 While cloning if you face issue then unset the proxy : git config --global --unset http.proxy
 hello: changing in visual studio code
+
+
+Okay so wanna see how different branches function.
